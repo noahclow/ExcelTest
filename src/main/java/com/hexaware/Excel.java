@@ -14,6 +14,7 @@ import java.util.TreeMap;
 
 public class Excel {
     public static void main(String[] args) {
+        crearExcel();
         leerExcel();
     }
 
