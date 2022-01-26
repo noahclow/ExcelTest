@@ -4,3 +4,4 @@ target/
 *.xlsx
 *.class
 .DS_Store
+.vscode/
